@@ -1,72 +1,117 @@
-# 👋 ¡Hola! Soy Javier Peña  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🎓 **Estudiante universitario de cuarto nivel** con interés en el desarrollo de software, arquitectura de sistemas.  
-💻 Me apasiona aprender nuevas tecnologías y aplicar buenas prácticas de programación en proyectos reales.  
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/javier-peña-1aa764359" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@tu-canal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=javierpea.javierpea"  />
+</div>
+
+###
+
+<h1 align="center">👋 ¡Hola! Soy Javier Peña</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre mí</h3>
+
+###
+
+<p align="left">
+🎓 Soy un estudiante universitario de <b>cuarto nivel</b> apasionado por el <b>desarrollo de software, la arquitectura de sistemas y las redes de computadoras</b>.<br><br>
+- 🔭 Actualmente participo en proyectos académicos usando <b>Java, C#, Unity y SQL</b>.<br>
+- 📚 Estoy aprendiendo sobre <b>arquitectura de software, diagramas UML, patrones de diseño y principios SOLID</b>.<br>
+- ⚡ En mi tiempo libre disfruto crear <b>videojuegos en Unity</b> y practicar <b>configuración de redes con Cisco Packet Tracer</b>.
+</p>
+
+###
+
+<h3 align="left">🛠️ Lenguajes y herramientas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 Mis estadísticas en GitHub</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javierpea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="250" alt="gráfico de estadísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javierpea&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="gráfico de lenguajes"  />
+  <img src="https://streak-stats.demolab.com?user=javierpea&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="gráfico de racha"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javierpea&radius=16&theme=react&area=true&order=5" height="300" alt="gráfico de actividad"  />
+</div>
+
+###
+
+<h3 align="left">🎯 Proyectos destacados</h3>
+
+- 🧠 **Tower Defense Game (Unity + C#):** Juego con lógica de oleadas y uso de estructuras de datos.  
+- 💼 **Sistema de Gestión Académica (Java + MySQL):** Aplicación CRUD con interfaz gráfica y base de datos relacional.  
+- 🌐 **Proyecto Blazor Inventario:** Aplicación web con arquitectura en capas y Entity Framework.  
+- 🌍 **Simulador de Redes (Cisco Packet Tracer):** Configuración de VLANs, enrutamiento y políticas de seguridad.  
 
 ---
 
-## 🚀 Tecnologías y Lenguajes que manejo
+<h3 align="left">🎧 Últimas canciones escuchadas en Spotify</h3>
 
-### 💬 Lenguajes de Programación
-- **Java** ☕ – Desarrollo orientado a objetos y estructuras de datos.  
-- **C#** ⚙️ – Aplicaciones con **.NET** y proyectos en **Unity** (videojuegos y simulaciones).  
-- **Python** 🐍 – Scripts, análisis de datos y automatización.  
-- **JavaScript / TypeScript** 🌐 – Desarrollo web y componentes interactivos.  
-- **SQL / PL-SQL** 🗃️ – Consultas, procedimientos almacenados y gestión de bases de datos.  
-
-### 🌐 Tecnologías y Herramientas
-- **HTML5 / CSS3 / Bootstrap / TailwindCSS** – Diseño web moderno y adaptable.  
-- **Node.js**, **Blazor**, **ASP.NET Core** – Desarrollo web backend y frontend.  
-- **Unity Engine** – Programación de videojuegos 2D/3D y lógica de juego.  
-- **Oracle / MySQL / SQL Server** – Modelado y administración de bases de datos.  
-- **Git / GitHub / Git Flow** – Control de versiones y colaboración en proyectos.  
-- **Cisco Packet Tracer** – Simulación y configuración de redes.  
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=suqf6igokieman672hbk3ulo8&count=5" alt="Spotify recientemente reproducido" />
+</div>
 
 ---
 
-## 🧩 Áreas de interés
-- Desarrollo de software y aplicaciones web.  
-- Videojuegos (programación de lógica y comportamiento).  
-- Diseño y modelado de bases de datos.  
-- Redes de computadoras y administración de sistemas.  
-- Ingeniería de software y arquitectura de sistemas.  
+<h3 align="left">📫 Contacto</h3>
+
+📧 **Correo:** javierpenia124@gmail.com  
+🌐 **GitHub:** [github.com/javierpea](https://github.com/javierpea)  
+💼 **LinkedIn:** [linkedin.com/in/javier-peña-1aa764359](https://www.linkedin.com/in/javier-peña-1aa764359)
 
 ---
 
-## 🛠️ Algunos proyectos destacados
-🔹 **Tower Defense Game (Unity + C#):** Juego por oleadas con estructuras de datos y colas para movimiento enemigo.  
-🔹 **Sistema de gestión académica (Java + MySQL):** Aplicación CRUD con interfaz gráfica.  
-🔹 **Simulador de redes (Cisco):** Configuración de VLANs, enrutamiento y seguridad de red.  
-🔹 **Proyecto Blazor Inventario:** Aplicación web con arquitectura en capas y Entity Framework.  
-
----
-
-## 🌱 Actualmente aprendiendo
-- **Arquitectura de software (diagramas UML, casos de uso, clases y despliegue).**  
-- **Buenas prácticas de desarrollo: patrones de diseño y principios SOLID.**  
-- **Seguridad y optimización en aplicaciones web.**  
-
----
-
-## 📫 Cómo contactarme
-- 📧 **Correo:** [tu-correo@ejemplo.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- 🌍 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)  
-
----
-
-> _“La mejor forma de aprender es construir.”_ 🚀  
-> Siempre abierto a colaborar, aprender y aportar en proyectos tecnológicos.
-
----
-
-### ✨ Badges sugeridos (opcional)
-Puedes añadirlos para hacerlo más visual:
-```markdown
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> _“La mejor forma de aprender es construir.”_ 🚀
