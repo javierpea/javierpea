@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 Sobre mí</h3>
 
 <p align="left">
-🎓 Soy un **estudiante universitario avanzado** (cuarto nivel) apasionado por el **desarrollo de software**, la **arquitectura de sistemas** y las **redes de computadoras**.<br><br>
+🎓 Soy un **estudiante universitario **  apasionado por el **desarrollo de software**, la **arquitectura de sistemas** y las **redes de computadoras**.<br><br>
 - 🔭 Actualmente me enfoco en proyectos con **Java, C#, Unity y SQL**.<br>
 - 📚 Estoy fortaleciendo mis conocimientos en **arquitectura de software**, con énfasis en **diagramas UML**, **patrones de diseño** y **principios SOLID**.<br>
 - ⚡ En mi tiempo libre, me dedico a desarrollar **videojuegos con Unity** y a practicar **configuraciones de redes avanzadas en Cisco Packet Tracer**.
