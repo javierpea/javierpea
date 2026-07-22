@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF de codificación" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=Javier%20Pe%C3%B1a&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20Database%20Architect&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=Javier%20Peña&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Database%20Architect&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header Banner" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF de codificación" />
 </div>
 
 <div align="center">
@@ -120,14 +120,6 @@ Construido sobre el ecosistema de Spring, el sistema implementa un diseño de ca
   <img src="https://github-readme-stats-six-iota-75.vercel.app/api?username=javierpea&show_icons=true&theme=dracula&locale=es&hide_title=true&layout=compact&count_private=true" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=javierpea&theme=dracula&hide_border=true&background=282A36&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" height="195" alt="GitHub Streak" />
   <img src="https://github-readme-stats-six-iota-75.vercel.app/api/top-langs?username=javierpea&layout=compact&langs_count=6&theme=dracula&locale=es&hide_title=true&count_private=true" height="195" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javierpea&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
