@@ -32,9 +32,8 @@
 
 <p align="left">
 🎓 Soy un **estudiante universitario **  apasionado por el **desarrollo de software**, la **arquitectura de sistemas** y las **redes de computadoras**.<br><br>
-- 🔭 Actualmente me enfoco en proyectos con **Java, C#, Unity y SQL**.<br>
-- 📚 Estoy fortaleciendo mis conocimientos en **arquitectura de software**, con énfasis en **diagramas UML**, **patrones de diseño** y **principios SOLID**.<br>
-- ⚡ En mi tiempo libre, me dedico a desarrollar **videojuegos con Unity** y a practicar **configuraciones de redes avanzadas en Cisco Packet Tracer**.
+- 🔭 Actualmente me enfoco en proyectos con **Java, JS, TS, y SQL**.<br>
+- 📚 Estoy fortaleciendo mis conocimientos en **arquitectura de software**, **patrones de diseño** y **principios SOLID**.<br>
 </p>
 
 ---
@@ -59,11 +58,12 @@
 
 ---
 
-<h3 align="left">🔥 Mis estadísticas de GitHub</h3>
+<h3 align="left"> Mis estadísticas de GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierpea&show_icons=true&theme=dracula&locale=es&hide_title=true&layout=compact" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javierpea&layout=compact&langs_count=6&theme=dracula&locale=es&hide_title=true" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-iota-75.vercel.app/api?username=javierpea&show_icons=true&theme=dracula&locale=es&hide_title=true&layout=compact&count_private=true" height="200" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-six-iota-75.vercel.app/api/top-langs?username=javierpea&layout=compact&langs_count=6&theme=dracula&locale=es&hide_title=true&count_private=true" height="200" alt="Top Languages" />
 </div>
 
 ---
